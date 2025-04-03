@@ -35,7 +35,7 @@ const ServicesFour = () => {
                         {currentLanguage === "mn" ? (
                           <>ЦОГТБААТАРЫН ЭНХЖАВХЛАН</>
                         ) : (
-                          <>TS. ENHJAVHLAN TSOGTBAATAR</>
+                          <>ENHJAVHLAN TSOGTBAATAR</>
                         )}
                       </p>
                     </h4>
