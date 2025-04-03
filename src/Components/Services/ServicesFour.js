@@ -14,7 +14,7 @@ const ServicesFour = () => {
             {currentLanguage === "mn" ? <>УДИРДЛАГА</> : <>MANAGEMENT</>}
           </h2>
           <div className="col-md-6 col-12 col-lg-6 mt-30">
-            <div className="service-item-card">
+            <div className="service-item-card flex flex-col h-full">
               <div className="flex flex-col xl:gap-14 xl:flex-row">
                 <div className="">
                   <div className="icon">
@@ -121,7 +121,7 @@ const ServicesFour = () => {
           </div>
 
           <div className="col-md-6 col-12 col-lg-6 mt-30">
-            <div className="service-item-card">
+            <div className="service-item-card flex flex-col h-full">
               <div className="flex flex-col xl:flex-row">
                 <div className="col">
                   <div className="icon">
