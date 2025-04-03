@@ -15,13 +15,13 @@ const ServicesFour = () => {
           </h2>
           <div className="col-md-6 col-12 col-lg-6 mt-30">
             <div className="service-item-card">
-              <div className="flex flex-col xl:gap-20 xl:flex-row">
+              <div className="flex flex-col xl:gap-14 xl:flex-row">
                 <div className="">
                   <div className="icon">
                     <img
                       src={img1}
                       alt=""
-                      className="w-[200px] h-[200px] sm:w-[200px] mx-auto"
+                      className="max-h-[200px] mx-auto"
                       loading="lazy"
                     />
                     <div className="contents"></div>
